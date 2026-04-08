@@ -1,6 +1,6 @@
-# 📱 ScanSure – QR-Based EventCheckerApp
+#  ScanSure – QR-Based EventCheckerApp
 
-## 👨‍💻 Team Members
+## Team Members
 
 * **Navin Jomi K**
 * **Nishith**
@@ -8,15 +8,15 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 **ScanSure** is an Android-based application that simplifies attendance tracking using QR code scanning. It ensures structured, time-stamped, and session-controlled attendance recording for events.
 
 ---
 
-## 🎯 Key Features
+##  Key Features
 
-### 📅 Session Creation
+###  Session Creation
 
 * Create a session with:
 
@@ -33,14 +33,14 @@
 
 ---
 
-### ⏱ Time-Stamped Entries
+### Time-Stamped Entries
 
 * Automatically records entry time
 * Provides accurate attendance tracking
 
 ---
 
-### 📋 Structured Attendance List
+### Structured Attendance List
 
 * Displays attendees in:
 
@@ -57,14 +57,14 @@
 
 ---
 
-### 🔒 Session Validation
+### Session Validation
 
 * Prevents scanning before session starts
 * Ensures controlled and reliable attendance logging
 
 ---
 
-## 🧠 Working Flow
+## Working Flow
 
 1. Launch the application
 2. Create a session
@@ -75,7 +75,7 @@
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
 
 ```
 com.example.scansure
@@ -97,7 +97,7 @@ com.example.scansure
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 * Java (Android Development)
 * Android SDK
@@ -106,7 +106,7 @@ com.example.scansure
 
 ---
 
-## 📦 Installation & Setup
+##  Installation & Setup
 
 1. Clone the repository:
 
@@ -125,7 +125,7 @@ git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 * Duplicate entry prevention
 * Session expiry timer
@@ -134,6 +134,6 @@ git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
 
 ---
 
-## 📄 License
+##  License
 
 This project is developed for academic purposes.
